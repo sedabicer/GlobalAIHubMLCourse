@@ -5,6 +5,7 @@ Course Date: 04.01.2021
 
 Name: Seda
 Surname: Biçer
+
 Email: xsedabicerx@gmail.com
 
 Note: Your homeworks can be formats like ".ipynb" and ".py". Not ".txt" files!! Make sure that your codes works.
