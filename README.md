@@ -18,5 +18,6 @@ Requirements
 Some python libraries
 
 Certification
+
 ![](img/ML_Certificate.png)
 
